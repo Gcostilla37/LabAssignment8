@@ -1,0 +1,26 @@
+[
+    {
+        "id":1,
+        "firstName": "Gaby",
+        "lastName": "Costilla",
+        "email": "gcostilla37@gmail.com",
+        "phone": "(209) 485-6108",
+        "editing": false
+    },
+    {
+        "id":2,
+        "firstName": "Cynthia",
+        "lastName": "Sanchez",
+        "email": "cindyhighrollar@gmail.com",
+        "phone": "(559) 666-6666",
+        "editing": false
+    },
+    {
+        "id":3,
+        "firstName": "Maria",
+        "lastName": "Eufracio",
+        "email": "himaria@gmail.com",
+        "phone": "(805) 100-1010",
+        "editing": false
+    }
+]
